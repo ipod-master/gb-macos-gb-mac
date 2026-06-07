@@ -1,1 +1,1 @@
-# gb-macos-gb-mac
+# gb-macos-gb-mac in beta
